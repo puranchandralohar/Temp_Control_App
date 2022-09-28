@@ -3,7 +3,7 @@ import { TempApp } from './Components/TempApp'
 
 export default function App() {
   return (
-    <TempApp />
+    <TempApp title ="Tempreture App" />
   )
 }
 

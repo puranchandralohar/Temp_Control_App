@@ -47,3 +47,11 @@
     font-size: 1.5rem;
     cursor: pointer;
 }
+
+.app_title{
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.8rem;
+    color:#fff;
+}
