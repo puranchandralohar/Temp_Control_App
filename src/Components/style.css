@@ -55,3 +55,11 @@
     font-size: 0.8rem;
     color:#fff;
 }
+
+.hot{
+    background-color: rgb(156, 45, 45);
+}
+
+.cold{
+    background-color: rgb(46, 46, 189);
+}
